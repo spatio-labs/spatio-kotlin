@@ -1,5 +1,5 @@
 group 'app.spatio'
-version '0.0.1'
+version '0.0.2'
 
 wrapper {
     gradleVersion = '8.14.3'
@@ -70,7 +70,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'app.spatio'
             artifactId = 'spatio-sdk'
-            version = '0.0.1'
+            version = '0.0.2'
             from components.java
         }
     }

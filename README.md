@@ -9,7 +9,7 @@ Generated SDK for the [SpatioAPI](https://www.spatio.app/developers/docs/api). D
 maven { url 'https://jitpack.io' }
 
 // build.gradle
-implementation 'com.github.spatio-labs:spatio-kotlin:v0.0.1'
+implementation 'com.github.spatio-labs:spatio-kotlin:v0.0.2'
 ```
 
 ## Import
